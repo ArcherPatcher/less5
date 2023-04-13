@@ -1,0 +1,3 @@
+def favorite_book(book):
+    print(f"One of my favorite book is a {book.title()}")
+favorite_book('Bread with ham')
